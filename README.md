@@ -15,5 +15,20 @@ Website Pemeritah, Pemerintah Daerah dan Kabupaten Kota:
 12.[Kota Semarang](http://siagacorona.semarangkota.go.id/)
 13.[Kabupaten Tuban](https://tubankab.go.id/page/informasi-tentang-virus-corona-covid-19)
 
+
 Website Non Pemerintah:
 1. [KawalCovid19](https://kawalcovid19.id/)
+2. [KawalCorona](https://kawalcorona.com/)
+
+Dataset dan API:
+1. [KawalCovid19](https://kcov.id/daftarpositif)
+2. [Data Science for COVID-19 Indonesia (DSCI) Initiative](https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases)
+3. [api.kawalcorona.com](api.kawalcorona.com)
+4. [South Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+5. [Italy](https://www.kaggle.com/sudalairajkumar/covid19-in-italy)
+6. [Brazil](https://www.kaggle.com/unanimad/corona-virus-brazil)
+7. [USA](https://www.kaggle.com/sudalairajkumar/covid19-in-usa)
+8. [France](https://www.kaggle.com/lperez/coronavirus-france-dataset)
+9. [Tunisia](https://www.kaggle.com/ghassen1302/coronavirus-tunisia)
+10. [Japan](https://www.kaggle.com/tsubasatwi/close-contact-status-of-corona-in-japan)
+11.[COVID-19 Image Dataset](https://github.com/ieee8023/covid-chestxray-dataset)
