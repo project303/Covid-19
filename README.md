@@ -32,3 +32,5 @@ Dataset dan API:
 9. [Tunisia](https://www.kaggle.com/ghassen1302/coronavirus-tunisia)
 10. [Japan](https://www.kaggle.com/tsubasatwi/close-contact-status-of-corona-in-japan)
 11.[COVID-19 Image Dataset](https://github.com/ieee8023/covid-chestxray-dataset)
+12. [Novel Coronavirus (COVID-19) Cases Data ](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
+13. [Google Community Mobility Reports](https://www.google.com/covid19/mobility/)
