@@ -36,3 +36,4 @@ Dataset dan API:
 12. [Novel Coronavirus (COVID-19) Cases Data ](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
 13. [Google Community Mobility Reports](https://www.google.com/covid19/mobility/)
 14. [Penelitian, Publikasi dan Produk Indonesia tentang COVID-19](http://sinta.ristekbrin.go.id/covid/)
+15. [COVID-19 Coronavirus data ](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data/resource/55e8f966-d5c8-438e-85bc-c7a5a26f4863)
