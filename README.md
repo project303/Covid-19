@@ -14,6 +14,7 @@ Website Pemeritah, Pemerintah Daerah dan Kabupaten Kota:
 11.[Kota Depok](http://ccc-19.depok.go.id/)
 12.[Kota Semarang](http://siagacorona.semarangkota.go.id/)
 13.[Kabupaten Tuban](https://tubankab.go.id/page/informasi-tentang-virus-corona-covid-19)
+14. [Monitoring Covid19 Kemenkes](https://covid-monitoring.kemkes.go.id/)
 
 
 Website Non Pemerintah:
@@ -34,3 +35,4 @@ Dataset dan API:
 11.[COVID-19 Image Dataset](https://github.com/ieee8023/covid-chestxray-dataset)
 12. [Novel Coronavirus (COVID-19) Cases Data ](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
 13. [Google Community Mobility Reports](https://www.google.com/covid19/mobility/)
+14. [Penelitian, Publikasi dan Produk Indonesia tentang COVID-19](http://sinta.ristekbrin.go.id/covid/)
